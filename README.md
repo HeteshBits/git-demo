@@ -6,5 +6,3 @@ This is the first file in the repo.
 
 abcdefghijklmnopqrstuvwxyz
 
-## Adding something new
-0123456789
